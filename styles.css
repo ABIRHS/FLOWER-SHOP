@@ -1,6 +1,7 @@
 /* SECTION 00: UNIVERSAL SECTION*/
 * {
   font-family: "Open Sans", sans-serif;
+  font-style: normal;
   margin: 0px;
   padding: 0px;
 }
@@ -57,3 +58,35 @@
 /* SECTION 02: CONTENT SECTION */
 
 /* this row intentionally left blank */
+
+.hot-deal-content-container {
+  background-color: #e554730d;
+  display: flex;
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 186px;
+}
+
+/* Hot Deal ! Sale Up To 25% Off */
+.section-headline {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding-bottom: 24px;
+}
+
+/* Off, flower */
+.span-text {
+  color: #e55473;
+}
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+.section-about {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 32px;
+}
