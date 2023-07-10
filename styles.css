@@ -1,5 +1,59 @@
+/* SECTION 00: UNIVERSAL SECTION*/
 * {
   font-family: "Open Sans", sans-serif;
   margin: 0px;
   padding: 0px;
 }
+
+/* SECTION 01: BANNER SECTION */
+
+/* this row intentionally left blank */
+
+.page-header-container {
+  width: 100vw;
+  height: 90.5vh;
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 97px;
+}
+
+/* Let's make beautiful flowers a part of your life. */
+#header-slogan {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  padding-bottom: 32px;
+}
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. */
+#header-about {
+  width: 534px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 32px;
+}
+
+/* Show Now */
+.btn-primary {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
+  border: none;
+}
+
+/* Banner Image */
+#banner-image {
+  width: 635px;
+  height: 800px;
+  padding-top: 50px;
+}
+
+/* SECTION 02: CONTENT SECTION */
+
+/* this row intentionally left blank */
