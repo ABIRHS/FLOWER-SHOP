@@ -256,6 +256,9 @@
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
+  background-image: url("./Flower Asset/pngwing 6.png");
+  background-repeat: no-repeat;
+  background-position: center;
   margin-right: 24px;
 }
 
@@ -264,6 +267,9 @@
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
+  background-image: url("./Flower Asset/pngwing 5.png");
+  background-repeat: no-repeat;
+  background-position: center;
   margin-right: 24px;
 }
 
@@ -272,6 +278,9 @@
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
+  background-image: url("./Flower Asset/pngwing 7.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* Underlined text of showcased flowers */
