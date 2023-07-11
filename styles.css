@@ -310,11 +310,12 @@
 /* this row intentionally left blank */
 .customer-review-section {
   width: 1920px;
-  height: 425px;
+  height: 400px;
   background-color: #e554730d;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-bottom: 40px;
 }
 
 #flower-review {
@@ -353,7 +354,7 @@
   color: #272727;
   font-size: 35px;
   font-weight: 400;
-  padding-top: 5px;
+  padding-top: 20px;
 }
 
 #review-time {
