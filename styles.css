@@ -109,6 +109,7 @@
 /* this row intentionally left blank */
 
 .instagram-section {
+  width: 1920px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -145,6 +146,10 @@
 /* this row intentionally left blank */
 
 /* Background Image of Get The Latest Deals */
+.email-input-section {
+  width: 1920px;
+}
+
 #bg-form-image {
   width: 1440px;
   height: 449px;
@@ -157,6 +162,7 @@
   font-weight: 800;
   text-align: center;
   padding-bottom: 128px;
+  margin-top: 128px;
 }
 
 /* Get The Latest Deals */
@@ -228,6 +234,7 @@
 
 /* OUR FEATURED FLOWERS */
 #our-featured-flowers {
+  width: 1920px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -246,6 +253,7 @@
 
 /* Three colored background box of flower showcase */
 .flower-showcase-box {
+  width: 1920px;
   display: flex;
   justify-content: center;
   padding-bottom: 32px;
@@ -285,6 +293,7 @@
 
 /* Underlined text of showcased flowers */
 .flower-name {
+  width: 1920px;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -299,3 +308,78 @@
 /* UNIQUE SECTION: CUSTOMER REVIEW */
 
 /* this row intentionally left blank */
+.customer-review-section {
+  width: 1920px;
+  height: 425px;
+  background-color: #e554730d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#flower-review {
+  width: 150px;
+  height: 150px;
+  padding-right: 24px;
+}
+
+.flower-review-personal-information {
+  display: flex;
+  padding-right: 98px;
+  align-items: center;
+}
+
+#tom-cruise-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#tom-cruise-spend {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#tom-cruise-review {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+#tom-cruise-review-text {
+  width: 680px;
+  color: #272727;
+  font-size: 35px;
+  font-weight: 400;
+  padding-top: 5px;
+}
+
+#review-time {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+#rating-and-review-time {
+  padding-bottom: 15px;
+}
+
+.tom-cruise-customer {
+  background-color: red;
+}
+
+.customer-review-header {
+  width: 1920px;
+  color: #272727;
+  background-color: #e554730d;
+  font-size: 40px;
+  font-weight: 800;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
