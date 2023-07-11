@@ -21,7 +21,6 @@
   gap: 97px;
 }
 
-/* Let's make beautiful flowers a part of your life. */
 #slogan-header {
   color: #272727;
   font-size: 80px;
@@ -29,7 +28,6 @@
   padding-bottom: 32px;
 }
 
-/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. */
 #about-header {
   width: 534px;
   color: rgba(39, 39, 39, 0.6);
@@ -38,7 +36,6 @@
   padding-bottom: 32px;
 }
 
-/* BUTTON: SHOP NOW, SIGN UP, SUBSCRIBE */
 .btn-primary {
   color: #fff;
   font-size: 20px;
@@ -49,7 +46,6 @@
   border: none;
 }
 
-/* Banner Image */
 #banner-image {
   width: 635px;
   height: 800px;
@@ -71,7 +67,6 @@
   gap: 186px;
 }
 
-/* Hot Deal ! Sale Up To 25% Off */
 .headline-section {
   color: #272727;
   font-size: 40px;
@@ -82,12 +77,11 @@
   padding-top: 230px;
   padding-bottom: 24px;
 }
-/* Off, flower */
+
 .span-text {
   color: #e55473;
 }
 
-/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
 .about-section {
   width: 594px;
   color: rgba(39, 39, 39, 0.6);
@@ -99,7 +93,6 @@
   padding-bottom: 32px;
 }
 
-/* BUTTON: SIGN UP */
 #btn-sign-up {
   margin-bottom: 162px;
 }
@@ -121,18 +114,15 @@
   justify-content: center;
 }
 
-/* Instagram */
 #instagram-headline {
   padding-top: 128px;
   padding-bottom: 24px;
 }
 
-/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
 #instagram-about {
   padding-bottom: 48px;
 }
 
-/* 4 Flower Images */
 #instagram-section-images {
   padding-bottom: 128px;
 }
@@ -145,7 +135,6 @@
 
 /* this row intentionally left blank */
 
-/* Background Image of Get The Latest Deals */
 .email-input-section {
   width: 1920px;
 }
@@ -165,13 +154,11 @@
   margin-top: 128px;
 }
 
-/* Get The Latest Deals */
 #sub-form-text {
   padding-top: 122px;
   padding-bottom: 16px;
 }
 
-/* $30 coupon for first shopping */
 #coupon-about {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
@@ -180,7 +167,6 @@
   text-align: center;
 }
 
-/* Enter Your Email Here */
 #input-email-box {
   width: 700px;
   height: 64px;
@@ -232,7 +218,6 @@
 
 /* BONUS SECTION: CSS */
 
-/* OUR FEATURED FLOWERS */
 #our-featured-flowers {
   width: 1920px;
   display: flex;
@@ -246,12 +231,10 @@
   padding-bottom: 24px;
 }
 
-/* Description of Featured Flower Showcase Section */
 #featured-flower-about {
   padding-bottom: 48px;
 }
 
-/* Three colored background box of flower showcase */
 .flower-showcase-box {
   width: 1920px;
   display: flex;
@@ -291,7 +274,6 @@
   background-position: center;
 }
 
-/* Underlined text of showcased flowers */
 .flower-name {
   width: 1920px;
   display: flex;
@@ -341,6 +323,8 @@
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   font-weight: 400;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #tom-cruise-review {
