@@ -22,7 +22,7 @@
 }
 
 /* Let's make beautiful flowers a part of your life. */
-#header-slogan {
+#slogan-header {
   color: #272727;
   font-size: 80px;
   font-weight: 800;
@@ -30,7 +30,7 @@
 }
 
 /* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. */
-#header-about {
+#about-header {
   width: 534px;
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
@@ -76,10 +76,12 @@
   color: #272727;
   font-size: 40px;
   font-weight: 800;
+}
+
+#hot-deal-headline {
   padding-top: 230px;
   padding-bottom: 24px;
 }
-
 /* Off, flower */
 .span-text {
   color: #e55473;
@@ -91,6 +93,9 @@
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   font-weight: 400;
+}
+
+#hot-deal-about {
   padding-bottom: 32px;
 }
 
@@ -118,6 +123,7 @@
 /* Instagram */
 #instagram-headline {
   padding-top: 128px;
+  padding-bottom: 24px;
 }
 
 /* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
@@ -217,3 +223,70 @@
   font-size: 16px;
   font-weight: 400;
 }
+
+/* BONUS SECTION: CSS */
+
+/* OUR FEATURED FLOWERS */
+#our-featured-flowers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#featured-flowers-headline {
+  padding-top: 178px;
+  padding-bottom: 24px;
+}
+
+/* Description of Featured Flower Showcase Section */
+#featured-flower-about {
+  padding-bottom: 48px;
+}
+
+/* Three colored background box of flower showcase */
+.flower-showcase-box {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 32px;
+}
+
+#flower-showcase-pink-box {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  margin-right: 24px;
+}
+
+#flower-showcase-blue-box {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  margin-right: 24px;
+}
+
+#flower-showcase-green-box {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+}
+
+/* Underlined text of showcased flowers */
+.flower-name {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 128px;
+  gap: 307px;
+  color: #272727;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
+
+/* UNIQUE SECTION: CUSTOMER REVIEW */
+
+/* this row intentionally left blank */
